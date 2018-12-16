@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1544908150138" stop="1544908155112" version="1.4.15" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Default Suite : newfrm</name>
+    <title>Default Suite : newfrm</title>
+    <test-cases>
+        <test-case start="1544908150258" stop="1544908154990" status="passed">
+            <name>testRun1</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="ZiasMac.local"/>
+                <label name="thread" value="1649@ZiasMac.local.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="TestNG"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

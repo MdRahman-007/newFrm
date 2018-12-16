@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: ru.yandex.qatools.allure:allure-testng-adaptor:2.0.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/ru/yandex/qatools/allure/allure-testng-adaptor/2.0.0-SNAPSHOT/allure-testng-adaptor-2.0.0-20150428.121614-78.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/ru/yandex/qatools/allure/allure-testng-adaptor/2.0.0-SNAPSHOT/allure-testng-adaptor-2.0.0-20150428.121614-78-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/ru/yandex/qatools/allure/allure-testng-adaptor/2.0.0-SNAPSHOT/allure-testng-adaptor-2.0.0-20150428.121614-78-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
